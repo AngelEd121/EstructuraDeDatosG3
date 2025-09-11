@@ -12,4 +12,4 @@ En este `repositorio` podras encontrar temas de `estructuras de datos` para impl
  8. Metodos de Ordenamiento y Busqueda 
  9. Arboles
 
- [Estructura de datos](./Imagen.jpg)
+ [Estructura de datos](./IMG/Imagen.jpg)
