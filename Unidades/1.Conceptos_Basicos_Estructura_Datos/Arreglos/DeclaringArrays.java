@@ -1,4 +1,3 @@
-
 package mx.edu.uttt.Arreglos;
 
 public class DeclaringArrays {
@@ -16,10 +15,10 @@ public class DeclaringArrays {
          * datatype [] arrayName1, arrayName2;
         */
         double [] arr1 ;
-        String [] arr2, arr3;
+        /* String [] arr2; arr3;
         boolean [] arr4;
         char arr5 [];
-        int [] arr6;
+        int [] arr6;*/
 
         arr1 = new double [3];
         System.out.println(arr1[0]);
